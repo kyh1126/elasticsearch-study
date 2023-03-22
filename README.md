@@ -1,2 +1,1 @@
 # elasticsearch-study
-# elasticsearch-study
